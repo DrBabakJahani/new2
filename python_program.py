@@ -1,5 +1,7 @@
 #!/opt/homebrew/bin/python3
 import numpy as np
+import cartopy
+
 from matplotlib import pyplot as plt
 
 print('start')
